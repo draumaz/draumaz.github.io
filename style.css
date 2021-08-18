@@ -10,7 +10,7 @@ header {
 	display: flex;	
 	align-items: center;
 	min-height: 10vh;
-	text-align: left;
+	text-align: center;
 	flex-direction: column;
 }
 h2 {
